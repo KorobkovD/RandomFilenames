@@ -39,7 +39,7 @@ namespace RandomFilenames
         {
             if (textBoxPath.Text.Length == 0)
             {
-                MessageBox.Show("Не указана папка для переименования файлов");
+                MessageBox.Show("Не указана папка для переименования файлов!");
             }
             else
             {
